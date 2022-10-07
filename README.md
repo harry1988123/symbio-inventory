@@ -1,3 +1,13 @@
+![alt text](https://github.com/harry1988123/symbio-inventory/blob/master/src/screenshots/1.png)
+![alt text](https://github.com/harry1988123/symbio-inventory/blob/master/src/screenshots/2.png)
+![alt text](https://github.com/harry1988123/symbio-inventory/blob/master/src/screenshots/3.png)
+![alt text](https://github.com/harry1988123/symbio-inventory/blob/master/src/screenshots/4.png)
+![alt text](https://github.com/harry1988123/symbio-inventory/blob/master/src/screenshots/5.png)
+![alt text](https://github.com/harry1988123/symbio-inventory/blob/master/src/screenshots/6.png)
+![alt text](https://github.com/harry1988123/symbio-inventory/blob/master/src/screenshots/7.png)
+![alt text](https://github.com/harry1988123/symbio-inventory/blob/master/src/screenshots/8.png)
+
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
