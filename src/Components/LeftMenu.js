@@ -17,8 +17,8 @@ const LeftMenu = () => {
   };
   return (
     <div className="left-panel" onClick={handleClick}>
-      <div data_id="1" className={activeTab === "1" ? "row active" : "row"}>
-        <AddNewItem data_id="1" />
+      <div data_id="4" className={activeTab === "4" ? "row active" : "row"}>
+        <ItemArchives data_id="4" />
       </div>
       <div data_id="2" className={activeTab === "2" ? "row active" : "row"}>
         <Products data_id="2" />
@@ -26,8 +26,8 @@ const LeftMenu = () => {
       <div data_id="3" className={activeTab === "3" ? "row active" : "row"}>
         <Categories data_id="3" />
       </div>
-      <div data_id="4" className={activeTab === "4" ? "row active" : "row"}>
-        <ItemArchives data_id="4" />
+      <div data_id="1" className={activeTab === "1" ? "row active" : "row"}>
+        <AddNewItem data_id="1" />
       </div>
     </div>
   );

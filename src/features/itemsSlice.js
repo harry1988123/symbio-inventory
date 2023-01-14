@@ -1,7 +1,8 @@
 import { createSlice } from "@reduxjs/toolkit";
+import data from '../Data.json'
 
 const initialState = {
-  item: [],
+  item: data,
   categories: [],
 };
 
