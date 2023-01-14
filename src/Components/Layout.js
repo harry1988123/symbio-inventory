@@ -6,7 +6,7 @@ import Body from "./Body";
 const Layout = () => {
   return (
     <>
-      <PageHeader className="site-page-header" title="Symbio Inventory" />
+      <PageHeader className="site-page-header" title="Harendra Singh Inventory" />
       <Body />
     </>
   );
