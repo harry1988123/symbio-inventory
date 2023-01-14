@@ -1,6 +1,6 @@
 import { createSlice } from "@reduxjs/toolkit";
 const initialState = {
-  activeTab: "1",
+  activeTab: "4",
 };
 
 export const inventorySlice = createSlice({
